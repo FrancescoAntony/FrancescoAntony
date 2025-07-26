@@ -14,10 +14,9 @@
 </div>
 
 <!--CONTRIBUIÇÕES-->
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancescoAntony&theme=vue-dark&hide_border=false"
-    align="center">
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancescoAntony&theme=vue-dark&hide_border=false">
+</p>
 
 
 <!--ICONS-->
