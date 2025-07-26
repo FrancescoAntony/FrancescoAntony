@@ -6,15 +6,17 @@
 - 😄 Pronouns: he/him
 
 <!--TOP LINGUAGENS DE PROGRAMAÇÃO E ESTATÍSTICAS DO GIT-->
-<p>
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoAntony&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" 
     align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=FrancescoAntony&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" 
     align="right">
-</p>
+</div>
+
 <!--CONTRIBUIÇÕES-->
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancescoAntony&theme=vue-dark&hide_border=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancescoAntony&theme=vue-dark&hide_border=false"
+    align="center">
 </div>
 
 
