@@ -5,23 +5,24 @@
 - 💬 Ask me about tecnology 🖥️
 - 😄 Pronouns: he/him
 
-<!--TOP LINGUAGENS DE PROGRAMAÇÃO-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoAntony&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="FrancescoAntony's Top Languages">
-</p> 
-<!--ESTATÍSTICAS DO GIT E CONTRIBUIÇÕES-->
+<!--TOP LINGUAGENS DE PROGRAMAÇÃO E ESTATÍSTICAS DO GIT-->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoAntony&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" 
+    align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrancescoAntony&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" 
+    align="right">
+</p>
+<!--CONTRIBUIÇÕES-->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancescoAntony&theme=vue-dark&show_icons=true&hide_border=false&count_private=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancescoAntony&theme=vue-dark&hide_border=false">
 </div>
+
+
 <!--ICONS-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
   style="width: 40px; height: 40px; max-height: 40px;">
 </p>
-
-     
-
 
 
 
