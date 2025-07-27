@@ -17,9 +17,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancescoAntony&theme=vue-dark&hide_border=false">
 </p>
 <!--ICONS-->
+LANGUAGES:
 <p align="left">
+  <a href="https://www.python.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
   style="width: 40px; height: 40px; max-height: 40px;">
+  </a>
 </p>
 
 
