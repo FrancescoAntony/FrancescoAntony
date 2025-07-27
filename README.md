@@ -17,16 +17,60 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancescoAntony&theme=vue-dark&hide_border=false">
 </p>
 <!--ICONS-->
-LANGUAGES:
-<p align="left">
+LANGUAGES AND TOOLS:
+<p>
   <a href="https://www.python.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
   style="width: 40px; height: 40px; max-height: 40px;">
   </a>
+  <a href="https://cplusplus.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+  style="width: 40px; height: 40px; max-height: 40px;">
+  </a>
+  <a href="https://www.java.com/pt-BR">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+  style="width: 40px; height: 40px; max-height: 40px;">
+  </a>
+  <a href="https://git-scm.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  style="width: 40px; height: 40px; max-height: 40px;">
+  </a>
+  <br>
+  <a href="https://www.djangoproject.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+  style="width: 40px; height: 40px; max-height: 40px;">
+  </a>
+  <a href="https://www.w3.org/html">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  style="width: 40px; height: 40px; max-height: 40px;">
+  </a>
+  <a href="https://pytorch.org">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
+  style="width: 40px; height: 40px; max-height: 40px;">
+  </a>
+  <a href="https://www.mysql.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+  style="width: 40px; height: 40px; max-height: 40px;">
+  </a>
+  <br>
+  <a href="https://www.postgresql.org">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+  style="width: 40px; height: 40px; max-height: 40px;">
+  </a>
+  <a href="https://firebase.google.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
+    style="width: 40px; height: 40px; max-height: 40px;">
+  </a>
+  <a href="https://scikit-learn.org/stable">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+    style="width: 40px; height: 40px; max-height: 40px;">
+  </a>
+  <a href="https://nextjs.org">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+    style="width: 40px; height: 40px; max-height: 40px;">
+  </a>
 </p>
-
-
-
+          
 
 <!--
 - 👯 I’m looking to collaborate on ...
