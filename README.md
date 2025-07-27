@@ -12,15 +12,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FrancescoAntony&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" 
     align="right">
 </div>
-
 <!--CONTRIBUIÇÕES-->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancescoAntony&theme=vue-dark&hide_border=false">
 </p>
-
-
 <!--ICONS-->
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
   style="width: 40px; height: 40px; max-height: 40px;">
 </p>
