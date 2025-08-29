@@ -23,8 +23,12 @@ LANGUAGES AND TOOLS:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
   style="width: 40px; height: 40px; max-height: 40px;">
   </a>
-  <a href="https://cplusplus.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+  <a href="https://www.djangoproject.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+  style="width: 40px; height: 40px; max-height: 40px;">
+  </a>
+  <a href="https://embarcados.com.br/linguagem-c-guia-completo">
+  <img src="https://i.pinimg.com/474x/41/cd/ce/41cdceff36566cb5a70f5c999755d4bc.jpg"
   style="width: 40px; height: 40px; max-height: 40px;">
   </a>
   <a href="https://www.java.com/pt-BR">
@@ -36,8 +40,8 @@ LANGUAGES AND TOOLS:
   style="width: 40px; height: 40px; max-height: 40px;">
   </a>
   <br>
-  <a href="https://www.djangoproject.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+  <a href="https://cplusplus.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
   style="width: 40px; height: 40px; max-height: 40px;">
   </a>
   <a href="https://www.w3.org/html">
